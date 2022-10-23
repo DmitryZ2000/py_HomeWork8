@@ -1,7 +1,6 @@
 import view
 import model
 
-
 def start():    
     exit = False
     my_db = {}
